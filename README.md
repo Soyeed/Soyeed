@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Soyeed Minnath Ulllah]!
+# 👋 Hi, I'm Soyeed Minnath Ulllah
 
 I’m a passionate **Front-End Web Developer** with a strong foundation in building beautiful and responsive websites. I specialize in:
 
