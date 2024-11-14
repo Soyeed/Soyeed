@@ -1,17 +1,37 @@
-<h1 align="center">Hi 👋, I'm Soyeed Minnath Ullah</h1>
-<h3 align="center">A passionate frontend developer with a strong foundation in building beautiful and responsive websites.</h3>
+# 👋 Hi, I'm [Soyeed Minnath Ulllah]!
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
+I’m a passionate **Front-End Web Developer** with a strong foundation in building beautiful and responsive websites. I specialize in:
 
-- 🌱 I’m currently learning **React.js**
+- **HTML**: Crafting clean and semantic markup.
+- **CSS**: Creating modern and responsive layouts.
+- **JavaScript**: Adding interactivity and dynamic content.
+- **Tailwind CSS**: Streamlining styling with utility-first classes.
 
-- 📫 How to reach me **soyeed.ullah@gmail.com**
+## 🚀 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/soyeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soyeed" height="30" width="40" /></a>
-<a href="https://instagram.com/minnath_ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minnath_ullah" height="30" width="40" /></a>
-</p>
+- 💻 HTML5, CSS3, JavaScript (ES6+)
+- 🎨 Tailwind CSS, Flexbox, Grid
+- ⚛️ Basic knowledge of React (optional, if applicable)
+- 📦 Version control with Git and GitHub
+- 🌐 Responsive design and cross-browser compatibility
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🌱 Currently Learning
+
+I’m expanding my skills and diving deeper into:
+
+- Advanced JavaScript and frameworks
+- Front-end performance optimization
+- Responsive UI/UX design best practices
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/minnathullah)
+- **Email**: [your-email@example.com](soyeed.ullah@gmail.com)
+
+## ⚡ Fun Fact
+
+I love exploring new technologies and frameworks to create seamless user experiences. In my free time, you can find me experimenting with new CSS techniques or building mini projects!
+
+---
+
+✨ Feel free to connect with me for collaborations, feedback, or just to say hi!
