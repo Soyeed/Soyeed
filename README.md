@@ -25,8 +25,8 @@ I’m expanding my skills and diving deeper into:
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/minnathullah)
-- **Email**: [your-email@example.com](soyeed.ullah@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/minnathullah]
+- **Email**: [soyeed.ullah@gmail.com]
 
 ## ⚡ Fun Fact
 
