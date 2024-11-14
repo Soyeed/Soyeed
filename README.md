@@ -10,8 +10,8 @@ I’m a passionate **Front-End Web Developer** with a strong foundation in build
 ## 🚀 Skills
 
 - 💻 HTML5, CSS3, JavaScript (ES6+)
-- 🎨 Tailwind CSS, Flexbox, Grid
-- ⚛️ Basic knowledge of React (optional, if applicable)
+- 🎨 Tailwind CSS
+- ⚛️ Basic knowledge of ReactJS
 - 📦 Version control with Git and GitHub
 - 🌐 Responsive design and cross-browser compatibility
 
